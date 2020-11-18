@@ -1,0 +1,8 @@
+cat
+apple
+engine
+mistake
+homework
+zoo
+repo
+food
